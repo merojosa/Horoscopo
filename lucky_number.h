@@ -1,0 +1,1 @@
+int generate_lucky_number(int seed);

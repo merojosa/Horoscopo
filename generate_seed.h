@@ -1,0 +1,1 @@
+int generate_seed(int day, int month, int year, int sign);
